@@ -6,7 +6,7 @@ Este sitio reúne mi **Curriculum Vitae profesional** y un **portafolio web** co
 
 ## Demo Online
 
- https://alexandra-correa.github.io/desarrollo-de-portafolio/
+https://alexandra-correa.github.io/desarrollo-portafolio/
 
 ##Contenido del Proyecto
 
